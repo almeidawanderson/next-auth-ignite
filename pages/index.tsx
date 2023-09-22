@@ -19,6 +19,7 @@ export default function Home() {
   }
 
   return (
+    
     <form 
     style={{display: 'flex',
     flexDirection: 'column',
@@ -51,5 +52,6 @@ export default function Home() {
         Entrar
       </Button>
     </form>
+    
   );
 }
